@@ -43,11 +43,3 @@ Me gusta resolver problemas concretos. No el tipo de dev que solo mueve botones 
 ## Proyecto que más me gusta mostrar
 
 **[Hospital_Sistema](https://github.com/Gustavopvs1/Hospital_Sistema)** — Sistema para gestión de quirófanos en React + Express + MySQL. Lleva más de un año en producción en el Hospital General de Querétaro. Fue mi primer proyecto grande de verdad.
-
----
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavopvs1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide=stars)
-
-</div>
