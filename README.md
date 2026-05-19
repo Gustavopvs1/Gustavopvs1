@@ -15,7 +15,7 @@
 
 *Corregidora, Querétaro, MX · Español nativo · Inglés B2*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-diaz-rivera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-diaz-rivera-72ba5a29a/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.diazr98@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gustavopvs1)
 
@@ -105,17 +105,6 @@ Me apasiona resolver problemas reales con código limpio, construir sistemas que
 | Ingeniería en Desarrollo y Gestión de Software | Universidad Tecnológica de Querétaro | Ene 2023 – Abr 2024 |
 | TSU en Desarrollo de Software Multiplataforma | Universidad Tecnológica de Querétaro | Sep 2020 – Abr 2022 |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavopvs1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavopvs1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-</div>
 
 ---
 
