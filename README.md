@@ -1,25 +1,25 @@
 <div align="center">
 
-# Hey, soy Gustavo 👋
+# Hey, I'm Gustavo 👋
 
-**Full Stack Dev** enfocado en backend, automatización y hacer que las cosas funcionen de verdad.
+**Full Stack Dev** focused on backend, automation, and making things actually work.
 
-Querétaro, MX · Español nativo · Inglés B2
+Querétaro, MX · Native Spanish · English B2
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-diaz-rivera)
-[![Email](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavo.diazr98@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavo.diazr98@gmail.com)
 
 </div>
 
 ---
 
-Trabajo con **React + Node.js** en el frontend y backend, y últimamente paso bastante tiempo en automatizaciones con Make, scripts de Python y metiendo mano al ERP (Odoo) donde trabajo.
+I work with **React + Node.js** across the stack, and lately I spend a lot of time on process automation with Make, Python scripting, and digging into ERP internals (Odoo) at my current job.
 
-Me gusta resolver problemas concretos. No el tipo de dev que solo mueve botones — prefiero entender el sistema completo.
+I like solving concrete problems. Not the kind of dev who just moves buttons around — I prefer understanding the whole system.
 
 ---
 
-## Stack principal
+## Main stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -32,14 +32,14 @@ Me gusta resolver problemas concretos. No el tipo de dev que solo mueve botones 
 
 ---
 
-## Ahorita
+## Right now
 
-- 🏢 Ingeniero de sistemas en empresa logística — ERP, automatizaciones, el área entera sobre mis hombros
-- 🔧 Mejorando en arquitectura de software y patrones de backend
-- 🤖 Integrando IA generativa en flujos de trabajo reales (no solo juguetear con APIs)
+- 🏢 Solo systems engineer at a logistics company — ERP, automations, the whole area on my shoulders
+- 🔧 Getting better at backend architecture and software patterns
+- 🤖 Integrating generative AI into real workflows (not just playing with APIs)
 
 ---
 
-## Proyecto que más me gusta mostrar
+## Project I'm most proud of
 
-**[Hospital_Sistema](https://github.com/Gustavopvs1/Hospital_Sistema)** — Sistema para gestión de quirófanos en React + Express + MySQL. Lleva más de un año en producción en el Hospital General de Querétaro. Fue mi primer proyecto grande de verdad.
+**[Hospital_Sistema](https://github.com/Gustavopvs1/Hospital_Sistema)** — Full web platform for surgical room management built with React + Express + MySQL. Running in production at a public hospital for over a year. My first real large-scale project.
